@@ -1,6 +1,6 @@
-<img width="2125" height="575" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/acb6c220-c623-4d43-a2f2-bf801e0e7389" /><br>
-💻 I’m continuing my journey in
- the world of software development.<br>🚀 I enjoy learning new technologies and building projects to gain experience.
+<<img width="1790" height="575" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/c2cd2268-903c-487d-93a9-067a195e6bdc" /><br>
+# 💫 About Me:
+💻 I’m continuing my journey in the world of software development.<br>🚀 I enjoy learning new technologies and building projects to gain experience.
 
 
 ## 🌐 Socials:
@@ -14,6 +14,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Busrasusam&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Busrasusam&icon=4&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
