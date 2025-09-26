@@ -1,6 +1,6 @@
-<div class="tenor-gif-embed" data-postid="2332171326726785246" data-share-method="host" data-aspect-ratio="1.33155" data-width="100%"><a href="https://tenor.com/view/coding-girl-gif-2332171326726785246">Coding Girl Sticker</a>from <a href="https://tenor.com/search/coding+girl-stickers">Coding Girl Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-# 💫 About Me:
-💻 I’m continuing my journey in the world of software development.<br>🚀 I enjoy learning new technologies and building projects to gain experience.
+<img width="2125" height="575" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/acb6c220-c623-4d43-a2f2-bf801e0e7389" /><br>
+💻 I’m continuing my journey in
+ the world of software development.<br>🚀 I enjoy learning new technologies and building projects to gain experience.
 
 
 ## 🌐 Socials:
