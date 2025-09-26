@@ -1,3 +1,4 @@
+[![MasterHead](<div class="tenor-gif-embed" data-postid="2332171326726785246" data-share-method="host" data-aspect-ratio="1.33155" data-width="100%"><a href="https://tenor.com/view/coding-girl-gif-2332171326726785246">Coding Girl Sticker</a>from <a href="https://tenor.com/search/coding+girl-stickers">Coding Girl Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
 # 💫 About Me:
 💻 I’m continuing my journey in the world of software development.<br>🚀 I enjoy learning new technologies and building projects to gain experience.
 
